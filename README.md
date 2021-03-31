@@ -5,13 +5,13 @@ This is basically a signup page that has been connected to a `mailchimp` api and
 
 > To uploading the website on the server of heroku.
 
-```cmd
+```node
 
 git init
 
 git add.
 heroku create
-git commit -m //This is how you add the files
+git commit -m 
 git push heroku master
 
 
@@ -19,11 +19,11 @@ git push heroku master
 ```
 > If you want to make changes in the file you can just do this steps:
 
-```cmd
+```node
 
  
 git add.
-git commit -m    //your files that went through change will get commited.
+git commit -m    
 git push heroku master
 
 
