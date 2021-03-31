@@ -11,7 +11,7 @@ git init
 
 git add.
 heroku create
-git commit -m "This is how you add the files "
+git commit -m //This is how you add the files
 git push heroku master
 
 
@@ -23,7 +23,7 @@ git push heroku master
 
  
 git add.
-git commit -m "your files that went through change will get commited. "
+git commit -m    //your files that went through change will get commited.
 git push heroku master
 
 
